@@ -101,7 +101,6 @@ function quitarFecha(){
 }
 
 
-
 function temperatura(){
 
 
@@ -117,6 +116,15 @@ function temperatura(){
 
 
 }
+
+
+
+
+
+
+
+
+
 
 
 
